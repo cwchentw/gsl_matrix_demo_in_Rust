@@ -1,0 +1,4 @@
+[root]
+name = "gsl_matrix_demo"
+version = "0.1.0"
+
